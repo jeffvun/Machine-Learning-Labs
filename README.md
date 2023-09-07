@@ -1,6 +1,6 @@
 # Machine Learning Labs Repository
 
-Welcome to the Machine Learning Labs GitHub repository! This repository is a collection of resources and projects related to machine learning, designed to help you learn and experiment with various machine learning techniques, algorithms, and tools.
+Welcome to the Machine Learning Labs GitHub repository! This repository is a collection of resources and projects related to machine learning, designed to help you learn and experiment with various machine learning techniques, algorithms, and tools. This Project is solely based on the ICS 4102 Machine Learning Course by Strathmore University lectured by Mr Emmanuel Olang.
 
 ## Table of Contents
 
