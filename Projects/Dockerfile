@@ -17,6 +17,7 @@ RUN apt-get update --fix-missing && \
     apt-get clean && \
     apt-get install tensorflow --upgrade && \
     apt-get install pythorch && \
+    pip install tensorflow transformers && \
     rm -rf /var/lib/apt/lists/*
 
 # Install Miniconda to manage Python packages and create a virtual environment.
