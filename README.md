@@ -28,6 +28,8 @@ git clone https://github.com/jeffvun/Machine-Learning-Labs.git
 3. **Explore the Projects**: Navigate to the `projects` directory to find various machine learning projects, each in its dedicated folder. Each project folder contains a README with project-specific instructions and details.
 
 4. **Learn from the Resources**: The `resources` directory contains educational materials, such as Jupyter notebooks, articles, and tutorials, to help you learn machine learning concepts and techniques.
+   
+6. To find out how good a poicy is follow the following link `https://www.youtube.com/watch?v=KovN7WKI9Y0`
 
 ## Projects
 
